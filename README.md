@@ -1,7 +1,7 @@
 
 ### A PROJECT REPORT ON
 # “IoT Based Factory Monitoring and Protection System”
-                UNIVERSITY OF RAJSHAHI
+                 UNIVERSITY OF RAJSHAHI
 A project paper submitted to the department of Electrical and Electronic Engineering,
 University of Rajshahi in partial fulfillment of the requirement for the B.Sc in EEE degree.
 
@@ -13,12 +13,6 @@ Session: 2017-2018
 Examination Year: 2021
 Dept of Electrical and Electronic Engineering,
 University of Rajshahi
-
-
-
-
-
-
 
 ## DECLARATION
 DECLARATION
@@ -135,7 +129,7 @@ Chapter 6: Result and Discussion
 6.5 Conclusion
 REFERENCE
 ## CHAPTER 1
-Introduction
+### Introduction
 #### 1.1 Introduction:
 In today's rapidly evolving industrial landscape, the integration of cutting-edge technologies
 has become essential for ensuring operational efficiency, productivity, and safety [1]. The
@@ -195,8 +189,8 @@ exploration, we aim to showcase the potential of IoT technology in revolutionizi
 monitoring and protection, paving the way for safer, more efficient, and technologically
 advanced industrial operations.
 ## CHAPTER 2
-Project Details
-2.1 Project Layout:
+### Project Details
+#### 2.1 Project Layout:
 Figure 2.1 Block Diagram of the Project
 The IoT Based Factory Monitoring and Protection System is structured around a dynamic and
 interconnected framework that encompasses both hardware and software elements. The layout
