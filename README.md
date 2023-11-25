@@ -191,6 +191,10 @@ advanced industrial operations.
 ## CHAPTER 2
 ### Project Details
 #### 2.1 Project Layout:
+<<<<<<< HEAD
+=======
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/home-automation-app-5a3d0.appspot.com/o/photos%2Fblock_diagram_fin.png?alt=media&token=16e918ba-fa1f-4ad3-a903-d50baaa642fb)
+>>>>>>> 36add294e2d70beacccb6bed0bdfc118e2a177ad
 Figure 2.1 Block Diagram of the Project
 The IoT Based Factory Monitoring and Protection System is structured around a dynamic and
 interconnected framework that encompasses both hardware and software elements. The layout
