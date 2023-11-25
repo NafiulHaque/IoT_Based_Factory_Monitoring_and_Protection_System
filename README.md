@@ -191,20 +191,24 @@ advanced industrial operations.
 ## CHAPTER 2
 ### Project Details
 #### 2.1 Project Layout:
-<<<<<<< HEAD
-=======
+
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/home-automation-app-5a3d0.appspot.com/o/photos%2Fblock_diagram_fin.png?alt=media&token=16e918ba-fa1f-4ad3-a903-d50baaa642fb)
->>>>>>> 36add294e2d70beacccb6bed0bdfc118e2a177ad
-Figure 2.1 Block Diagram of the Project
+Figure 2.1 Block Diagram of the Project  
+
 The IoT Based Factory Monitoring and Protection System is structured around a dynamic and
 interconnected framework that encompasses both hardware and software elements. The layout
 is designed to seamlessly integrate various components, including the ESP32-WROOM-32
 module, sensors (fire, ultrasonic, temperature, humidity), an OLED display, and many relay, to
 create a comprehensive solution for enhancing factory safety and operational awareness.
-2.2 Circuit Diagram of the Project:
+
+#### 2.2 Circuit Diagram of the Project:
+
+
 Figure 2.2 Circuit Diagram of the Project
 4
-2.3 Components Required:
+
+
+#### 2.3 Components Required:
 Components Name Quantity
 1. ESP-32 WROOM-32 development board 1pc
 2. OLED Display 1pc
@@ -719,6 +723,8 @@ code. Configure widget properties to visualize and monitor sensor data, such as
 temperature, humidity, and distance.
 5.4 Deploying Code: Compile my code in the Arduino IDE. Connect the ESP32 to my
 computer, select the correct board and port, and upload the code.
+
+```C++
 //display
 #include <SPI.h>
 #include <Wire.h>
@@ -923,6 +929,8 @@ display.println(data);
 display.display();
 // delay(2000);
 }
+
+```
 25
 5.5 Monitoring and Interaction: Launch the Blynk app and log in with my Blynk
 account. Access the dashboard I created and observe real-time sensor data and alerts. Interact
